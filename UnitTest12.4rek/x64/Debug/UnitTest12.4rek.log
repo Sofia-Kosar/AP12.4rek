@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest12.4rek.cpp
+D:\programyvanya\AP12.4rek\AP12.4rek\AP12.4rek.cpp(66): warning C4715: 'LCount': not all control paths return a value
+     Creating library D:\programyvanya\AP12.4rek\x64\Debug\UnitTest12.4rek.lib and object D:\programyvanya\AP12.4rek\x64\Debug\UnitTest12.4rek.exp
+  UnitTest12.4rek.vcxproj -> D:\programyvanya\AP12.4rek\x64\Debug\UnitTest12.4rek.dll
